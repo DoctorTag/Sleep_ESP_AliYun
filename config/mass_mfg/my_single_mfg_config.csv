@@ -1,0 +1,6 @@
+key,type,encoding,value
+aliyun-key,namespace,,
+DeviceName,data,string,Sleep_F58GM_APP
+DeviceSecret,data,string,4375d3a5da4aca76cb5ea26a65e073d7
+ProductKey,data,string,a11SgaEhWAb
+ProductSecret,data,string,x46VFKAOg6PUpRSc
